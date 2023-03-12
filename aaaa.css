@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.container {
+    width: 366px;
+    height: 420px;
+    margin-left: 537px;
+    margin-top: 285px;
+    background-color: #faf4ef;
+    border-bottom-left-radius: 50px;
+}
+h3 { padding-top: 43px;
+    padding-left: 46.11;
+}
+h6 {
+    padding-top: px;
+    padding-left: 46.11;
+}
+img{
+    padding-top: 65px;
+}
